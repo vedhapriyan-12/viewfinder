@@ -16,7 +16,7 @@ Android director's viewfinder: uses the phone camera to simulate the framing of 
 | Path | Purpose |
 |---|---|
 | `app/` | The Android app (Compose UI, camera + GL engine, placeholder catalog) |
-| `core/optics/` | Pure Kotlin optics maths with 29 unit tests (FOV, DOF, framing, frame guides) |
+| `core/optics/` | Pure Kotlin optics maths (FOV, DOF, framing, zoom limits, frame guides). 40 unit tests here, plus 32 in `app/` for framelines, project saving and zoom maths |
 | `spike/` | Throwaway Phase 0 test app (own Gradle build, not part of the root build) |
 | `docs/decisions/` | Architecture decision records |
 | `docs/phase0/` | Requirements draft, spike plan and results, calibration protocol, device matrix, test vectors |
