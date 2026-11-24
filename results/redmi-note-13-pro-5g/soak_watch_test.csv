@@ -1,0 +1,3 @@
+﻿time,elapsed_s,foreground,app_pid,batt_pct,batt_temp_c,thermal_status,charging
+15:08:35,0,app,19402,41,38.2,0,yes
+15:09:06,30,app,19402,41,38.2,0,yes

@@ -1,0 +1,267 @@
+{
+  "device": {
+    "manufacturer": "Xiaomi",
+    "model": "2312DRA50I",
+    "device": "garnet",
+    "sdkInt": 36,
+    "release": "16",
+    "socModel": "SM7435",
+    "glRenderer": "Adreno (TM) 710 | OpenGL ES 3.2 V@0615.99 (GIT@35ebe05c3f, Iffba89f8fb, 1753433034) (Date:07\/25\/25)"
+  },
+  "cameras": [
+    {
+      "id": "0",
+      "logicalParent": null,
+      "facing": "BACK",
+      "hardwareLevel": "LEVEL_3",
+      "capabilities": [
+        0,
+        9,
+        3,
+        7,
+        4,
+        5,
+        1,
+        6,
+        2
+      ],
+      "sensorOrientation": 90,
+      "physicalIds": [],
+      "focalLengthsMm": [
+        6.190000057220459
+      ],
+      "aperturesF": [
+        1.649999976158142
+      ],
+      "sensorPhysicalSizeMm": [
+        9.139200210571289,
+        6.854400157928467
+      ],
+      "pixelArraySize": [
+        4080,
+        3060
+      ],
+      "activeArray": [
+        0,
+        0,
+        4080,
+        3060
+      ],
+      "maxDigitalZoom": 10,
+      "zoomRatioRange": [
+        1,
+        10
+      ],
+      "rotateAndCropModes": [
+        0
+      ],
+      "intrinsicCalibration": [
+        2763.392822265625,
+        2763.392822265625,
+        2040,
+        1530,
+        0
+      ],
+      "lensDistortion": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "poseReference": 0,
+      "minFocusDistanceDiopters": 10,
+      "focusDistanceCalibration": 1,
+      "videoStabilizationModes": [
+        0,
+        1
+      ],
+      "opticalStabilizationModes": [
+        0,
+        1
+      ],
+      "timestampSource": "REALTIME",
+      "aeTargetFpsRanges": [
+        [
+          1,
+          5
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          10,
+          10
+        ],
+        [
+          14,
+          14
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          12,
+          24
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          7,
+          30
+        ],
+        [
+          14,
+          30
+        ],
+        [
+          30,
+          30
+        ]
+      ],
+      "surfaceTextureSizes": [
+        "4080x3060",
+        "3060x3060",
+        "3840x2160",
+        "4080x1832",
+        "2304x1296",
+        "1728x1728",
+        "1920x1440",
+        "2304x1040",
+        "1920x1080",
+        "1440x1080",
+        "1280x960",
+        "1280x720",
+        "960x720",
+        "800x600",
+        "864x480",
+        "720x480",
+        "640x480",
+        "352x288",
+        "320x240",
+        "176x144"
+      ]
+    },
+    {
+      "id": "1",
+      "logicalParent": null,
+      "facing": "FRONT",
+      "hardwareLevel": "LEVEL_3",
+      "capabilities": [
+        0,
+        9,
+        3,
+        7,
+        4,
+        5,
+        1,
+        6,
+        2
+      ],
+      "sensorOrientation": 270,
+      "physicalIds": [],
+      "focalLengthsMm": [
+        3.2699999809265137
+      ],
+      "aperturesF": [
+        2.450000047683716
+      ],
+      "sensorPhysicalSizeMm": [
+        4.644864082336426,
+        3.4836480617523193
+      ],
+      "pixelArraySize": [
+        2304,
+        1728
+      ],
+      "activeArray": [
+        0,
+        0,
+        2304,
+        1728
+      ],
+      "maxDigitalZoom": 10,
+      "zoomRatioRange": [
+        1,
+        10
+      ],
+      "rotateAndCropModes": [
+        0
+      ],
+      "intrinsicCalibration": [
+        1622.0238037109375,
+        1622.0238037109375,
+        0,
+        0,
+        0
+      ],
+      "lensDistortion": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "poseReference": 0,
+      "minFocusDistanceDiopters": 0,
+      "focusDistanceCalibration": 1,
+      "videoStabilizationModes": [
+        0,
+        1
+      ],
+      "opticalStabilizationModes": [
+        0
+      ],
+      "timestampSource": "REALTIME",
+      "aeTargetFpsRanges": [
+        [
+          10,
+          10
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          12,
+          24
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          10,
+          30
+        ],
+        [
+          30,
+          30
+        ]
+      ],
+      "surfaceTextureSizes": [
+        "2304x1728",
+        "2304x1296",
+        "1728x1728",
+        "1920x1440",
+        "2304x1040",
+        "1920x1080",
+        "1440x1080",
+        "1280x960",
+        "1280x720",
+        "960x720",
+        "800x600",
+        "864x480",
+        "720x480",
+        "640x480",
+        "352x288",
+        "320x240",
+        "176x144"
+      ]
+    }
+  ]
+}

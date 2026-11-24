@@ -1,0 +1,15 @@
+﻿# Build outputs and local machine files
+local.properties
+.gradle/
+build/
+.kotlin/
+*.iml
+.idea/
+captures/
+
+# Raw phone screenshots (they show the owner's screen and workplace); JSON/CSV measurements are kept
+results/**/*.png
+
+# APKs are only kept in dist/
+*.apk
+!dist/*.apk
